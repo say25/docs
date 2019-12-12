@@ -3,6 +3,7 @@
 ## Asp.Net Core
 
 1. https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html
+1. https://devblogs.microsoft.com/dotnet/configureawait-faq/
 1. https://devblogs.microsoft.com/dotnet/understanding-the-whys-whats-and-whens-of-valuetask/
 1. https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
 1. https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-3.0#apicontroller-attribute
