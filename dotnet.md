@@ -8,6 +8,9 @@
 1. https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server
 1. https://medium.com/swlh/build-a-command-line-interface-cli-program-with-net-core-428c4c85221
 
+## Build Tools
+
+1. https://docs.microsoft.com/en-us/visualstudio/msbuild/customize-your-build?view=vs-2019
 
 ### IAsyncEnumerable
 
