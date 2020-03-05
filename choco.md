@@ -12,3 +12,8 @@ choco install yarn
 ```shell
 choco install nodejs-lts
 ```
+
+##### Terraform
+```shell
+choco install terraform
+```
