@@ -23,3 +23,8 @@ Tool to make certs for SSL locally.
 ```shell
 choco install mkcert
 ```
+
+##### [PowerShell](https://docs.microsoft.com/en-us/powershell/)
+```shell
+choco install powershell-core
+```
