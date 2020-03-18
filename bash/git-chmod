@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# If No Arguments, Echo and Exit
+((!$#)) && echo No file name, command ignored! && exit 1
+
+# $1 is file extension i.e. sh
+
+git update-index --chmod=+x **/*.$1
