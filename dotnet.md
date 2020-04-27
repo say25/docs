@@ -12,6 +12,10 @@
 
 1. https://docs.microsoft.com/en-us/visualstudio/msbuild/customize-your-build?view=vs-2019
 
+### Migration Guide
+
+1. https://hackernoon.com/how-to-migrate-project-from-aspnet-mvc-to-aspnet-core-qt1ks31zn
+
 ### Integration Testing
 
 1. https://andrewlock.net/converting-integration-tests-to-net-core-3/
