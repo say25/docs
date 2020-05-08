@@ -28,3 +28,8 @@ choco install mkcert
 ```shell
 choco install powershell-core
 ```
+
+##### [DataGrip](https://www.jetbrains.com/datagrip/)
+```shell
+choco install datagrip
+```
