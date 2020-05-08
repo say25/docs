@@ -29,6 +29,11 @@ choco install mkcert
 choco install powershell-core
 ```
 
+##### [ReSharper](https://www.jetbrains.com/resharper/)
+```shell
+choco install resharper
+```
+
 ##### [DataGrip](https://www.jetbrains.com/datagrip/)
 ```shell
 choco install datagrip
