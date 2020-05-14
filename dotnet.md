@@ -12,6 +12,10 @@
 
 1. https://docs.microsoft.com/en-us/visualstudio/msbuild/customize-your-build?view=vs-2019
 
+### Dataflow
+
+1. https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/dataflow-task-parallel-library
+
 ### Migration Guide
 
 1. https://hackernoon.com/how-to-migrate-project-from-aspnet-mvc-to-aspnet-core-qt1ks31zn
