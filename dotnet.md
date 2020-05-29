@@ -16,6 +16,10 @@
 
 1. https://docs.microsoft.com/en-us/dotnet/standard/parallel-programming/dataflow-task-parallel-library
 
+### Dependency Injection
+
+1. https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1
+
 ### Migration Guide
 
 1. https://hackernoon.com/how-to-migrate-project-from-aspnet-mvc-to-aspnet-core-qt1ks31zn
