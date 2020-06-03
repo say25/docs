@@ -43,3 +43,12 @@
 
 1. https://docs.microsoft.com/en-us/aspnet/core/web-api/action-return-types?view=aspnetcore-3.1#actionresultt-type
 1. https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-3.0#apicontroller-attribute
+
+## Asp.Net
+
+### WebApi
+
+#### Multiple Routing Defaults
+
+1. https://3btechtalk.wordpress.com/2017/05/07/defining-multiple-route-prefix-in-asp-net-web-api-attribute-routing/
+1. https://github.com/aspnet/AspNetWebStack/blob/master/src/System.Web.Http/Routing/DefaultDirectRouteProvider.cs
