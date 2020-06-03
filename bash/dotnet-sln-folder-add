@@ -3,8 +3,8 @@
 # If No Arguments, Echo and Exit
 ((!$#)) && echo No args provided, command ignored! && exit 1
 
-# $1 what needed to match in existing .sln - example: `Project1.csproj`
-# $2 what project to add to existing .slns - example: `Project2.csproj`
+# $1 what needed to match in existing .sln      - example: `Project1.csproj`
+# $2 what project path to add to existing .slns - example: `src/Project2/Project2.csproj`
 
 for i in $(grep -rl $1 --include=\*.sln); 
   do 
