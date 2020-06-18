@@ -52,3 +52,10 @@
 
 1. https://3btechtalk.wordpress.com/2017/05/07/defining-multiple-route-prefix-in-asp-net-web-api-attribute-routing/
 1. https://github.com/aspnet/AspNetWebStack/blob/master/src/System.Web.Http/Routing/DefaultDirectRouteProvider.cs
+
+
+## HttpClient
+
+1. https://docs.microsoft.com/en-us/dotnet/architecture/microservices/implement-resilient-applications/use-httpclientfactory-to-implement-resilient-http-requests
+1. https://aspnetmonsters.com/2016/08/2016-08-27-httpclientwrong/
+1. https://www.stevejgordon.co.uk/httpclient-connection-pooling-in-dotnet-core
