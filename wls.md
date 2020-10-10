@@ -7,5 +7,11 @@
    1. Then open the Linux Bash shell which will log you in as root without asking for password.
    1. Then use `passwd username` to reset the password of any user.
    1. Use `ubuntu config --default-user username` to reset back to your normal Linux user account.
-   
- 
+  
+## Installs
+
+Fresh WSL Installs may require:
+
+```bash
+sudo apt update
+```
