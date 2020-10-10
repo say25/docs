@@ -38,3 +38,8 @@ choco install resharper
 ```shell
 choco install datagrip
 ```
+
+##### [jq](https://stedolan.github.io/jq/download/)
+```shell
+choco install jq
+```
