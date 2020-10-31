@@ -10,10 +10,12 @@
   
 ## Installs
 
-[Microsoft WSL Install Guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+- [Microsoft WSL Install Guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 
-Fresh WSL Installs may require:
+- [Install WSL2 Kernel](https://docs.microsoft.com/en-us/windows/wsl/wsl2-kernel)
 
-```bash
-sudo apt update
-```
+- Fresh WSL Installs may require:
+
+   ```bash
+   sudo apt update
+   ```
