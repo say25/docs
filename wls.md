@@ -10,6 +10,8 @@
   
 ## Installs
 
+[Microsoft WSL Install Guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
+
 Fresh WSL Installs may require:
 
 ```bash
