@@ -3,6 +3,17 @@
 ### Installing the Tools I Use with Chocolatey
 https://chocolatey.org/
 
+##### [VSCode](https://code.visualstudio.com/)
+```shell
+choco install vscode 
+```
+
+##### [Git](https://git-scm.com/download/win)
+```shell
+choco install git
+```
+
+
 ##### [Docker](https://www.docker.com/products/docker-desktop)
 ```shell
 choco install docker-desktop --pre 
