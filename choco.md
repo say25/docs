@@ -3,14 +3,19 @@
 ### Installing the Tools I Use with Chocolatey
 https://chocolatey.org/
 
-##### [Yarn 1.X - Package Manager](https://github.com/yarnpkg/yarn)
+##### [Docker](https://www.docker.com/products/docker-desktop)
 ```shell
-choco install yarn
+choco install docker-desktop --pre 
 ```
 
 ##### [Node LTS](https://nodejs.org/en/)
 ```shell
 choco install nodejs-lts
+```
+
+##### [Yarn 1.X - Package Manager](https://github.com/yarnpkg/yarn)
+```shell
+choco install yarn
 ```
 
 ##### [Terraform](https://www.terraform.io/)
