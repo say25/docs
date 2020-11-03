@@ -10,3 +10,8 @@
 
 - [Direflow](https://direflow.io/)
 - [Adding ESLint + Prettier](https://www.robertcooper.me/using-eslint-and-prettier-in-a-typescript-project)
+
+## Testing
+
+- https://www.joshmorony.com/the-basics-of-unit-testing-in-stencil-js/
+- https://medium.com/@tally_b/unit-testing-stenciljs-1-0-c4e902a4e63c
