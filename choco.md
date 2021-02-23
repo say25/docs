@@ -60,7 +60,7 @@ choco install datagrip
 choco install jq
 ```
 
-##### [jq](https://docs.microsoft.com/en-us/powershell/scripting/overview)
+##### [PowerShell-Core](https://docs.microsoft.com/en-us/powershell/scripting/overview)
 ```shell
 choco install powershell-core
 ```
