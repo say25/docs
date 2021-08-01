@@ -1,5 +1,7 @@
 # Bash
 
+Bash setup and scripts I've written to re-use.
+
 ## Windows Setup
 
 1. Add `.bashrc` and `.bash_profile` to `~`
