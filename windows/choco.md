@@ -3,6 +3,11 @@
 ### Installing the Tools I Use with Chocolatey
 https://chocolatey.org/
 
+##### [Slack](https://www.slack.com/)
+```shell
+choco install slack
+```
+
 ##### [VSCode](https://code.visualstudio.com/)
 ```shell
 choco install vscode 
