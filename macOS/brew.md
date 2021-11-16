@@ -1,16 +1,30 @@
 # Brew Install
 
 [Homebrew](https://brew.sh)
-The Missing Package Manager for macOS (or Linux)
+The Missing Package Manager for macOS (or Linux).
 
-### Google Chrome
+#### Browsers
+
+### [Google Chrome](https://www.google.com/chrome/)
 
 ```bash
 brew install --cask google-chrome
 ```
 
-### Visual Studio Code
+### [Microsoft Edge](https://www.microsoft.com/edge)
+
+```bash
+brew install --cask microsoft-edge
+```
+
+### [VSCode](https://code.visualstudio.com/)
 
 ```bash
 brew install --cask visual-studio-code
+```
+
+### [GitHub Desktop](https://desktop.github.com/)
+
+```bash
+brew install --cask github
 ```
