@@ -18,7 +18,6 @@ choco install vscode
 choco install git
 ```
 
-
 ##### [Docker](https://www.docker.com/products/docker-desktop)
 ```shell
 choco install docker-desktop --pre 
@@ -64,9 +63,3 @@ choco install datagrip
 ```shell
 choco install jq
 ```
-
-##### [PowerShell-Core](https://docs.microsoft.com/en-us/powershell/scripting/overview)
-```shell
-choco install powershell-core
-```
-
