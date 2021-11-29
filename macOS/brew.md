@@ -28,3 +28,9 @@ brew install --cask visual-studio-code
 ```bash
 brew install --cask github
 ```
+
+### [Slack](https://www.slack.com/)
+
+```bash
+brew install --cask slack
+```
