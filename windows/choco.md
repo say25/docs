@@ -49,14 +49,9 @@ choco install mkcert
 choco install powershell-core
 ```
 
-##### [ReSharper](https://www.jetbrains.com/resharper/)
+##### [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/)
 ```shell
-choco install resharper
-```
-
-##### [DataGrip](https://www.jetbrains.com/datagrip/)
-```shell
-choco install datagrip
+choco install jetbrainstoolbox
 ```
 
 ##### [jq](https://stedolan.github.io/jq/download/)
