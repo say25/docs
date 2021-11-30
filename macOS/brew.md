@@ -34,3 +34,9 @@ brew install --cask github
 ```bash
 brew install --cask slack
 ```
+
+### [Discord](https://www.discord.com/)
+
+```bash
+brew install --cask discord
+```
