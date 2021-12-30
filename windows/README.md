@@ -1,6 +1,14 @@
 # Windows
 
-## Updating to Latest Powershell
+## Powershell
+
+### Checking Version
+
+```powershell
+Get-Host | Select-Object Version
+```
+
+### Updating to Latest
 
 To update to the latest version of Powershell via Powershell run the following:
 
