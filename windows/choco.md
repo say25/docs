@@ -3,6 +3,11 @@
 ### Installing the Tools I Use with Chocolatey
 https://chocolatey.org/
 
+##### [Windows Terminal](https://github.com/microsoft/terminal)
+```shell
+choco install microsoft-windows-terminal --pre
+```
+
 ##### [Slack](https://www.slack.com/)
 ```shell
 choco install slack
