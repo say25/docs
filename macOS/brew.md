@@ -40,3 +40,15 @@ brew install --cask slack
 ```bash
 brew install --cask discord
 ```
+
+### [Node](https://nodejs.org/)
+
+```bash
+brew install node
+```
+
+### [Yarn](https://yarnpkg.com/)
+
+```bash
+brew install yarn
+```
