@@ -1,5 +1,9 @@
 # Helpful Links
 
+## DotNet History
+
+1. Singletons - https://csharpindepth.com/articles/singleton
+
 ## Asp.Net Core
 
 1. https://ardalis.com/moving-from-controllers-and-actions-to-endpoints-with-mediatr
