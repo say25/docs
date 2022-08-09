@@ -52,3 +52,12 @@ brew install node
 ```bash
 brew install yarn
 ```
+
+### [Speedtest](https://www.speedtest.net/apps/cli)
+```bash
+brew tap teamookla/speedtest
+brew update
+# Example how to remove conflicting or old versions using brew
+# brew uninstall speedtest --force
+brew install speedtest --force
+```
