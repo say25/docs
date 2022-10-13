@@ -15,3 +15,11 @@ To update to the latest version of Powershell via Powershell run the following:
 ```powershell
 iex "& { $(irm https://aka.ms/install-powershell.ps1) } -UseMSI"
 ```
+
+### Windows 11
+
+[Bring back Windows 10 context menus](https://twitter.com/Nick_Craver/status/1494661475553714177).
+
+```shell
+reg.exe add "HKCU\Software\Classes\CLSID\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\InprocServer32" /f /ve
+```
