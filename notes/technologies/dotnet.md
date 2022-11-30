@@ -38,8 +38,9 @@
 1. https://dotnetcoretutorials.com/2019/01/09/iasyncenumerable-in-c-8/
 1. https://stu.dev/iasyncenumerable-introduction/
 
-### Synchronization Context
+### Synchronization Context and Async
 
+1. https://learn.microsoft.com/en-us/archive/msdn-magazine/2015/july/async-programming-brownfield-async-development#the-blocking-hack
 1. https://blog.stephencleary.com/2017/03/aspnetcore-synchronization-context.html
 1. https://devblogs.microsoft.com/dotnet/configureawait-faq/
 
