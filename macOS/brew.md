@@ -36,7 +36,7 @@ brew install --cask slack
 ### [Docker Desktop](https://www.docker.com)
 
 ```bash
-brew install docker
+brew install --cask docker
 ```
 
 ### [GitHub Desktop](https://desktop.github.com/)
