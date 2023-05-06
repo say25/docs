@@ -72,3 +72,11 @@ brew install --cask visual-studio-code
 ```bash
 brew install yarn
 ```
+
+## Games
+
+### [OpenRCT2](http://openrct2.io/)
+
+```bash
+brew install openrct2
+```
