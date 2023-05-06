@@ -3,7 +3,7 @@
 [Homebrew](https://brew.sh)
 The Missing Package Manager for macOS (or Linux).
 
-#### Browsers
+## Browsers
 
 ### [Google Chrome](https://www.google.com/chrome/)
 
@@ -17,16 +17,12 @@ brew install --cask google-chrome
 brew install --cask microsoft-edge
 ```
 
-### [VSCode](https://code.visualstudio.com/)
+## Chat
+
+### [Discord](https://www.discord.com/)
 
 ```bash
-brew install --cask visual-studio-code
-```
-
-### [GitHub Desktop](https://desktop.github.com/)
-
-```bash
-brew install --cask github
+brew install --cask discord
 ```
 
 ### [Slack](https://www.slack.com/)
@@ -35,10 +31,18 @@ brew install --cask github
 brew install --cask slack
 ```
 
-### [Discord](https://www.discord.com/)
+## Development Tools
+
+### [Docker Desktop](https://www.docker.com)
 
 ```bash
-brew install --cask discord
+brew install docker
+```
+
+### [GitHub Desktop](https://desktop.github.com/)
+
+```bash
+brew install --cask github
 ```
 
 ### [Node](https://nodejs.org/)
@@ -47,17 +51,24 @@ brew install --cask discord
 brew install node
 ```
 
-### [Yarn](https://yarnpkg.com/)
-
-```bash
-brew install yarn
-```
-
 ### [Speedtest](https://www.speedtest.net/apps/cli)
+
 ```bash
 brew tap teamookla/speedtest
 brew update
 # Example how to remove conflicting or old versions using brew
 # brew uninstall speedtest --force
 brew install speedtest --force
+```
+
+### [VSCode](https://code.visualstudio.com/)
+
+```bash
+brew install --cask visual-studio-code
+```
+
+### [Yarn](https://yarnpkg.com/)
+
+```bash
+brew install yarn
 ```
