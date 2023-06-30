@@ -23,6 +23,12 @@ choco install vscode
 choco install git
 ```
 
+##### [GitHub Desktop](https://desktop.github.com/)
+```shell
+choco install github-desktop-beta --pre 
+```
+
+
 ##### [Docker](https://www.docker.com/products/docker-desktop)
 ```shell
 choco install docker-desktop --pre 
