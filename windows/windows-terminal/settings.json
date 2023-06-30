@@ -63,14 +63,12 @@
         "list":
         [
             {
-                "acrylicOpacity" : 1,
+                "opacity" : 1,
                 "closeOnExit": "graceful",
                 "colorScheme" : "Campbell",
                 "commandline" : "C:/Program Files/Git/usr/bin/bash.exe --login",
                 "cursorColor" : "#FFFFFF",
                 "cursorShape" : "bar",
-                "fontFace" : "Consolas",
-                "fontSize" : 10,
                 "guid" : "{14ad203f-52cc-4110-90d6-d96e0f41b64d}",
                 "hidden": false,
                 "historySize" : 9001,
@@ -110,30 +108,6 @@
                 "name": "Ubuntu-20.04",
                 "source": "Windows.Terminal.Wsl"
             },
-            {
-                "guid": "{4d9f6cba-6195-500a-9cff-fc15f7ea40a6}",
-                "hidden": true,
-                "name": "Developer Command Prompt for VS 2022 [Preview]",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "guid": "{95b40570-a628-55e5-aaa1-e1993901c829}",
-                "hidden": true,
-                "name": "Developer PowerShell for VS 2022 [Preview]",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "guid": "{ab6667fa-1406-5aab-824b-65c38893e324}",
-                "hidden": true,
-                "name": "Developer Command Prompt for VS 2019",
-                "source": "Windows.Terminal.VisualStudio"
-            },
-            {
-                "guid": "{d19491e3-5d49-5324-aa47-f53cd662987c}",
-                "hidden": true,
-                "name": "Developer PowerShell for VS 2019",
-                "source": "Windows.Terminal.VisualStudio"
-            }
         ]
     },
 
