@@ -33,6 +33,12 @@ brew install --cask slack
 
 ## Development Tools
 
+### [AWS CLI](https://aws.amazon.com/cli/)
+
+```bash
+brew install awscli
+```
+
 ### [Docker Desktop](https://www.docker.com)
 
 ```bash
