@@ -8,6 +8,11 @@ https://chocolatey.org/
 choco install microsoft-windows-terminal --pre
 ```
 
+##### [AWS CLI](https://aws.amazon.com/cli/)
+```shell
+choco install awscli -yes
+```
+
 ##### [Slack](https://www.slack.com/)
 ```shell
 choco install slack
