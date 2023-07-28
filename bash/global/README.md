@@ -2,6 +2,16 @@
 
 Bash setup and scripts I've written to re-use.
 
+## macOS Setup
+
+1. Create a `.zsh_my_global_scripts` folder next to `.zshrc`
+1. Add the following to `.zshrc`
+    ``` bash
+    # Add Custom Scripts
+    export PATH=".zsh_my_global_scripts:$PATH"
+    ```
+1. Enable writes for files in `.zsh_my_global_scripts` with `chmod -R 777 *` 
+
 ## Windows Setup
 
 1. Add `.bashrc` and `.bash_profile` to `~`
