@@ -11,7 +11,7 @@
 ## Installs
 
 - [Microsoft WSL Install Guide](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-
+- [Microsoft WSL Configuration Limits](https://learn.microsoft.com/en-us/windows/wsl/wsl-config#configuration-setting-for-wslconfig)
 - [Install WSL2 Kernel](https://docs.microsoft.com/en-us/windows/wsl/wsl2-kernel)
 
 - Fresh WSL Installs may require:
