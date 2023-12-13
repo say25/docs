@@ -1,5 +1,11 @@
 # Chocolatey Tooling
 
+## Upgrade All
+
+```shell
+choco upgrade all -y
+```
+
 ### Installing the Tools I Use with Chocolatey
 https://chocolatey.org/
 
