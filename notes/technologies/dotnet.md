@@ -24,6 +24,10 @@
 
 1. https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection?view=aspnetcore-3.1
 
+## Logging
+
+1. https://learn.microsoft.com/en-us/dotnet/core/extensions/logging?tabs=command-line
+
 ### Migration Guide
 
 1. https://hackernoon.com/how-to-migrate-project-from-aspnet-mvc-to-aspnet-core-qt1ks31zn
